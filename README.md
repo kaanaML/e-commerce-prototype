@@ -1,4 +1,6 @@
 # e-commerce-prototype
-sample for possible dep. detection
-To be updated
+Contributors: Michel H & Kaan A
+This prototype gives us an idea for possible depression/psychological disorder detection system.
+# How does it work?
+
 
