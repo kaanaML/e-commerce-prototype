@@ -7,7 +7,7 @@ The program cleans the given review from the numbers,special characters and end 
 
 # Possible improvements
 
-# Methodology to implement protype on depression/psychological disorder detection system
+# Methodology to implement prototype on depression/psychological disorder detection system
 
 # Possible constraints
 
